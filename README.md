@@ -46,7 +46,7 @@ for the name of an external JSON field mapping configuration file. If the file i
 the base path needs to be specified in `bibtex.mappingsBasePath`.
 
 ```ini
-bibtex.mappingsBasePath = APPLICATION_PATH "/application/config/bibtex"
+bibtex.mappingsBasePath = APPLICATION_PATH "/application/configs/bibtex"
 bibtex.mappings.default.file = custom-default-mapping.json
 bibtex.mappings.custom1.file = custom-mapping.json
 ```
